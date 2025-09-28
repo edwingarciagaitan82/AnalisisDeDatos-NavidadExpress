@@ -1,0 +1,151 @@
+﻿id_resena,id_cliente,id_producto,calificacion,comentario
+R001,C031,P008,2,Excelente compra
+R002,C039,P003,3,Excelente compra
+R003,C047,P006,4,Calidad aceptable
+R004,C049,P006,5,Lo recomiendo
+R005,C007,P006,2,No cumplió mis expectativas
+R006,C008,P005,4,Calidad aceptable
+R007,C010,P002,1,Excelente compra
+R008,C025,P010,4,Calidad aceptable
+R009,C011,P006,5,Excelente compra
+R010,C013,P003,4,Lo recomiendo
+R011,C030,P008,3,No cumplió mis expectativas
+R012,C002,P002,4,Lo recomiendo
+R013,C030,P004,2,Lo recomiendo
+R014,C023,P001,1,Excelente compra
+R015,C032,P010,4,Excelente compra
+R016,C035,P001,1,No cumplió mis expectativas
+R017,C009,P005,3,No cumplió mis expectativas
+R018,C024,P001,4,Muy buen producto
+R019,C037,P009,2,Excelente compra
+R020,C036,P005,1,No cumplió mis expectativas
+R021,C033,P008,5,Excelente compra
+R022,C040,P010,1,Calidad aceptable
+R023,C007,P007,3,Excelente compra
+R024,C036,P006,2,Calidad aceptable
+R025,C039,P009,4,Lo recomiendo
+R026,C003,P001,1,Calidad aceptable
+R027,C046,P006,4,Lo recomiendo
+R028,C030,P003,5,Lo recomiendo
+R029,C009,P006,5,Excelente compra
+R030,C011,P007,5,Excelente compra
+R031,C038,P006,5,Lo recomiendo
+R032,C035,P008,5,Excelente compra
+R033,C031,P001,3,Excelente compra
+R034,C044,P002,4,Lo recomiendo
+R035,C020,P001,5,No cumplió mis expectativas
+R036,C017,P010,5,Calidad aceptable
+R037,C047,P001,5,No cumplió mis expectativas
+R038,C011,P009,5,No cumplió mis expectativas
+R039,C010,P004,1,Lo recomiendo
+R040,C045,P002,2,Muy buen producto
+R041,C029,P006,4,Calidad aceptable
+R042,C027,P004,4,Lo recomiendo
+R043,C050,P010,4,Muy buen producto
+R044,C046,P003,5,Calidad aceptable
+R045,C036,P006,4,Lo recomiendo
+R046,C025,P006,2,No cumplió mis expectativas
+R047,C035,P006,5,Excelente compra
+R048,C044,P005,5,No cumplió mis expectativas
+R049,C013,P004,3,Lo recomiendo
+R050,C020,P004,3,Excelente compra
+R051,C046,P004,4,Excelente compra
+R052,C031,P006,5,Excelente compra
+R053,C019,P002,5,Lo recomiendo
+R054,C025,P007,3,Calidad aceptable
+R055,C019,P001,3,Muy buen producto
+R056,C023,P008,3,No cumplió mis expectativas
+R057,C014,P004,5,Excelente compra
+R058,C036,P005,2,Muy buen producto
+R059,C040,P010,2,Calidad aceptable
+R060,C004,P009,2,Calidad aceptable
+R061,C004,P002,4,Excelente compra
+R062,C046,P008,1,Calidad aceptable
+R063,C001,P009,2,No cumplió mis expectativas
+R064,C042,P008,4,Calidad aceptable
+R065,C049,P005,3,Excelente compra
+R066,C042,P001,1,Lo recomiendo
+R067,C015,P009,1,Calidad aceptable
+R068,C027,P003,1,No cumplió mis expectativas
+R069,C032,P003,3,Muy buen producto
+R070,C001,P005,5,Lo recomiendo
+R071,C007,P006,3,No cumplió mis expectativas
+R072,C042,P009,5,No cumplió mis expectativas
+R073,C009,P009,4,Excelente compra
+R074,C013,P002,3,Calidad aceptable
+R075,C047,P008,3,Calidad aceptable
+R076,C001,P006,3,Lo recomiendo
+R077,C044,P004,2,Lo recomiendo
+R078,C041,P007,4,Lo recomiendo
+R079,C021,P002,4,Muy buen producto
+R080,C012,P003,4,Excelente compra
+R081,C016,P001,3,No cumplió mis expectativas
+R082,C016,P008,3,Excelente compra
+R083,C020,P010,5,Muy buen producto
+R084,C017,P006,2,Muy buen producto
+R085,C043,P002,4,Excelente compra
+R086,C011,P007,5,Excelente compra
+R087,C045,P002,3,Excelente compra
+R088,C040,P004,2,Calidad aceptable
+R089,C031,P003,4,Lo recomiendo
+R090,C024,P007,5,No cumplió mis expectativas
+R091,C049,P009,2,Calidad aceptable
+R092,C044,P010,1,Lo recomiendo
+R093,C029,P009,3,Muy buen producto
+R094,C037,P002,1,Lo recomiendo
+R095,C033,P004,5,Lo recomiendo
+R096,C010,P003,3,Lo recomiendo
+R097,C029,P002,2,Lo recomiendo
+R098,C032,P002,5,No cumplió mis expectativas
+R099,C004,P008,2,Lo recomiendo
+R100,C027,P008,5,Muy buen producto
+R101,C036,P008,3,Muy buen producto
+R102,C026,P005,1,Calidad aceptable
+R103,C038,P002,1,No cumplió mis expectativas
+R104,C023,P002,5,Muy buen producto
+R105,C005,P008,1,Excelente compra
+R106,C027,P003,2,No cumplió mis expectativas
+R107,C024,P007,4,No cumplió mis expectativas
+R108,C025,P002,5,Calidad aceptable
+R109,C042,P006,1,Calidad aceptable
+R110,C035,P007,5,Calidad aceptable
+R111,C047,P004,1,Muy buen producto
+R112,C020,P008,5,No cumplió mis expectativas
+R113,C035,P007,2,Calidad aceptable
+R114,C030,P006,2,Excelente compra
+R115,C013,P002,1,No cumplió mis expectativas
+R116,C040,P001,2,Calidad aceptable
+R117,C005,P002,5,Muy buen producto
+R118,C029,P010,1,Calidad aceptable
+R119,C048,P001,4,No cumplió mis expectativas
+R120,C015,P009,2,Muy buen producto
+R121,C009,P009,3,Calidad aceptable
+R122,C047,P010,3,Lo recomiendo
+R123,C039,P006,2,Excelente compra
+R124,C010,P009,2,No cumplió mis expectativas
+R125,C020,P005,1,Lo recomiendo
+R126,C038,P003,4,Lo recomiendo
+R127,C032,P001,3,No cumplió mis expectativas
+R128,C034,P006,4,No cumplió mis expectativas
+R129,C010,P005,4,Calidad aceptable
+R130,C049,P009,4,Calidad aceptable
+R131,C015,P005,2,No cumplió mis expectativas
+R132,C004,P009,4,No cumplió mis expectativas
+R133,C036,P009,2,No cumplió mis expectativas
+R134,C016,P005,2,Excelente compra
+R135,C042,P002,4,Excelente compra
+R136,C006,P009,2,Muy buen producto
+R137,C018,P007,5,Lo recomiendo
+R138,C003,P002,2,Lo recomiendo
+R139,C047,P009,2,No cumplió mis expectativas
+R140,C014,P006,3,Muy buen producto
+R141,C014,P004,1,No cumplió mis expectativas
+R142,C016,P010,2,No cumplió mis expectativas
+R143,C016,P009,3,Excelente compra
+R144,C025,P008,5,Excelente compra
+R145,C020,P005,3,Lo recomiendo
+R146,C032,P008,1,No cumplió mis expectativas
+R147,C049,P006,2,Excelente compra
+R148,C021,P007,1,Lo recomiendo
+R149,C015,P003,1,Excelente compra
+R150,C036,P010,5,No cumplió mis expectativas
