@@ -24,6 +24,9 @@ El resultado es un conjunto de tableros que facilitan la **toma de decisiones es
 ## 📊 Tableros y Visualizaciones  
 A continuación, algunos ejemplos de los tableros desarrollados:  
 
+### Tablero Principal
+![Principal](https://github.com/edwingarciagaitan82/AnalisisDeDatos-NavidadExpress/blob/main/01.jpg) 
+
 ### 1. Ventas por Categoría de Producto  
 ![Ventas por Categoría](imagenes/ventas_categoria.png)  
 
